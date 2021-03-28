@@ -1,0 +1,17 @@
+# .env - environment variable configuration
+
+
+# Django settings
+#############################
+
+
+SECRET_KEY=
+TZ=UTC
+
+# PostgreSQL config
+# =================
+POSTGRESQL_DB_NAME=
+POSTGRESQL_DB_USER=
+POSTGRESQL_DB_PASSWORD=
+POSTGRESQL_DB_HOST=
+POSTGRESQL_DB_PORT=
